@@ -1,4 +1,4 @@
 # deeplearning.ai
 Submissions to the deeplearning.ai specialization  
 The courses in this series include:
-1. Neural Networks and Deep Learning (certificate)[]
+1. Neural Networks and Deep Learning (certificate)[https://www.coursera.org/account/accomplishments/verify/G7BWGP9QRM27]
