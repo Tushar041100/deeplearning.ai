@@ -9,4 +9,5 @@ The courses in this series include:
 6. Specialization [[Certificate](https://www.coursera.org/account/accomplishments/specialization/2NDY3P23PQJV)]
 ---
 There's a new specialization on Tensorflow 2.0 with Laurence Moroney
-1. Tensorflow for Deep Learning, Machine Learning and AI
+1. Tensorflow for Deep Learning, Machine Learning and AI [[Certificate](https://www.coursera.org/account/accomplishments/verify/SZGSLQ3QJZ5C)]
+2. Convolutional Neural Networks [[Certificate](https://www.coursera.org/account/accomplishments/verify/PQV2J4U6887Z)]
